@@ -63,10 +63,6 @@ pure_eval==0.2.3
 pyarrow==21.0.0
 pydeck==0.9.1
 Pygments==2.19.2
-python-dateutil==2.9.0.post0
-pytz==2025.2
-pywin32==311
-pyzmq==27.0.2
 referencing==0.36.2
 requests==2.32.4
 rich==14.2.0
@@ -97,4 +93,5 @@ Werkzeug==3.1.4
 wheel==0.45.1
 wrapt==2.0.1
 xgboost==3.1.1
+
 
